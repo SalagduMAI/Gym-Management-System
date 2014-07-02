@@ -1,0 +1,14 @@
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\bin\Debug\Main_Gym.exe.config
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\bin\Debug\Main_Gym.exe
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\bin\Debug\Main_Gym.pdb
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.Delete.resources
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.Fees.resources
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.Form1.resources
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.Registeration.resources
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.Main.resources
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.Properties.Resources.resources
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.Search.resources
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.csproj.GenerateResource.Cache
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.exe
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.pdb
+C:\Users\hammad\documents\visual studio 2013\Projects\Main_Gym\Main_Gym\obj\Debug\Main_Gym.csprojResolveAssemblyReference.cache
